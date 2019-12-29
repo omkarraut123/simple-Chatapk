@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63551446801",
+    "firebase_url": "https://androidstudioprojects-c6cf8.firebaseio.com",
+    "project_id": "androidstudioprojects-c6cf8",
+    "storage_bucket": "androidstudioprojects-c6cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63551446801:android:c3d253bacc41600e78b6b0",
+        "android_client_info": {
+          "package_name": "com.omkar.newchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63551446801-dukt0ibmlghqg3js51t140iun5gl3ht2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omkar.newchat",
+            "certificate_hash": "a4421eac4721d5700a80d3d0e0f276240f285f66"
+          }
+        },
+        {
+          "client_id": "63551446801-p0de2oh9khdeju2pr6j4pdas13hok0vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7d4N3tDf8a6TQDSu6gtk5-q2j9X2my8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63551446801-p0de2oh9khdeju2pr6j4pdas13hok0vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
